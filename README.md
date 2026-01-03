@@ -15,7 +15,7 @@ A premium, glassmorphism-designed calculator with a "Golden Blue" aesthetic.
     -   Clear All (AC)
 
 ## Live Demo
-[View Live](https://github.com/PATEL-BHAVIK2306005/Morden-Calculator)
+[View My Work](https://patel-bhavik2306005.github.io/Morden-Calculator/)
 
 ## Tech Stack
 -   HTML5
